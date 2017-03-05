@@ -24,7 +24,6 @@ import java.util.List;
 public class BasePermissionsActivity extends Activity
 {
 
-
     public static final String TAG = "BasePermissionsActivity";
 
     public static  int REQUEST_CODE = 0;
